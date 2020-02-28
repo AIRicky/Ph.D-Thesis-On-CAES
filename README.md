@@ -1,5 +1,5 @@
 # Ph.D-Thesis-On-CAES 压缩空气储能博士论文
-Here are all materials associated with my Ph.D. thesis. The file titled **main.tex** is the main file. 
+Here are all materials associated with my Ph.D. thesis. The file titled `main.tex` is the main file. 
 
 ## 引用格式/Citation
 *English*: Li Rui, Research on Flexibility Modeling and Operation of Advanced Adiabatic Compressed Air Energy Storage at Source-Grid-Load Side, Ph.D. Thesis, Tsinghua University, Beijing, 2019.7.
@@ -21,7 +21,7 @@ To exploit the mechanical interface flexibility, we proposed a novel dispatchabl
 In summary, this paper builds a thermodynamic simulation model for the general-purpose realization of AA-CAES to consider its off-design operation and internal part-load feature, and exploit the potential flexibilities offered by AA-CAES in terms of an energy storage, an energy hub, and a dispatchable wind turbine at the network, load, and source side, respectively. The proposed design, modeling, and operation methods are expected to benefit the exploitation and application of the conventional energy-shift and power reserve flexibility, the external multi-carrier generation flexibility, and the mechanical interface flexibility offered by the attractive concept of AA-CAES, in power systems. Our work has realized a combination of “after-the-fact remediation” and “precaution prevention” flexibility boosting solution, which utilized the energy storage plant (network side) and the energy hub (load side) to “passively” meet the existing flexible resource requirements of the power systems and the flexible wind turbine (source-side) “actively” provides flexibility with no increment of flexibility demand for its grid-connection, and finally benefits the renewable consumption of power systems.
 
 ## 中文摘要
-储能技术是提升新能源电力系统运行灵活性的有效方式，在电源侧、网络侧及负荷侧日益得到应用。先进绝热压缩空气储能（Advanced Adiabatic Compressed Air Energy Storage, AA-CAES）即为一种可灵活部署于源-网-荷侧的清洁储能技术，具有以能量搬移与容量备用为特征的常规灵活性、以热电联供与热电联储为核心的供能灵活性，以及以机械输入与机械输出为内涵的接口灵活性。通过挖掘这三类灵活性，本文系统地研究了网侧储能电站、荷侧能量枢纽、源侧灵活风机等AA-CAES的典型应用形式的设计、建模、运行及运营方法，以支撑新能源电力系统的灵活运行。
+储能技术是提升新能源电力系统运行灵活性的有效方式，在电源侧、网络侧及负荷侧日益得到应用。先进绝热压缩空气储能（`Advanced Adiabatic Compressed Air Energy Storage, AA-CAES`）即为一种可灵活部署于源-网-荷侧的清洁储能技术，具有以能量搬移与容量备用为特征的常规灵活性、以热电联供与热电联储为核心的供能灵活性，以及以机械输入与机械输出为内涵的接口灵活性。通过挖掘这三类灵活性，本文系统地研究了`网侧储能电站`、`荷侧能量枢纽`、`源侧灵活风机`等AA-CAES的典型应用形式的设计、建模、运行及运营方法，以支撑新能源电力系统的灵活运行。
 
 为了刻画先进绝热压缩空气储能的宽工况运行特性，研究了内部能量转换组件（压缩机与透平）、能量转移组件（换热器）的部分负载热力学特性，以及能量存储组件（储气库与储热罐）的热力学动态特性，建立了AA-CAES的通用宽工况热力学仿真模型。首先，计及常压、滑压等典型的压缩侧与膨胀侧运行模式，以及供电与热电联供等供能模式，构建了基于热力学第一定律及第二定律的稳态热力学仿真模型；其次，基于仿真模型分析了一典型AA-CAES系统的热力学特性及供能特性，为源-网-荷侧各应用形式的建模分析与运行研究提供依据。
 
